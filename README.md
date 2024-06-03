@@ -1,5 +1,5 @@
 "# absos2" 
-`
+```
 npm init -y
 npm install react@17.0.1 react-dom@17.0.1
 npm install webpack@latest webpack-cli@latest webpack-dev-server@latest --save-dev
@@ -14,4 +14,4 @@ npm install
 
 npm i --save-dev @types/react
 npm i --save-dev @types/react-dom
-`
+```

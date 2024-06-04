@@ -53,4 +53,4 @@ jobs:
           app-name: 'absos'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A102644D620F4FC5A5B2564672D41962 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01BDE70AAF2D411F85FAD5ACB68FB3A9 }}

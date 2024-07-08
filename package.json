@@ -1,6 +1,6 @@
 {
   "homepage":"http://absos.github.io",
-  "name": "my-app",
+  "name": "absos",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "webpack --config webpack.config.js",
     "start": "webpack serve --open --mode development",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",

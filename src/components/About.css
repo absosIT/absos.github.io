@@ -17,4 +17,7 @@
     margin: 0;
     font-size: 16px;
   }
-  
+
+  .about-section h6 {
+    font-size: 12px;
+  }
